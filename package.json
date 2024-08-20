@@ -1,6 +1,6 @@
 {
-  "name": "dragon-slair",
-  "displayName": "Dragon'sLair",
+  "name": "dragons-lair",
+  "displayName": "Dragon's Lair",
   "description": "Dragon's Lair is a dark and mystical theme inspired by the deep caverns of a dragon's  lair. The midnight black background sets the stage for focused coding, while the highlights evoke the magical glow of a dragon's breath. Ideal for those who seek a mythical and enchanting coding experience.",
   "version": "0.0.2",
   "publisher": "nrevia05hp",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MissinLinkk05551/dragons-lair.git"
+    "url": "git+https://github.com/MissinLinkk05551/dragons-lair.git"
   },
   "contributes": {
     "themes": [
