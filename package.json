@@ -16,9 +16,9 @@
     "dark",
     "dragon"
   ],
-    "repository": {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/MissinLinkk05551/dragons-lair.git"
+    "url": "git+https://github.com/MissinLinkk05551/dragons-lair.git"
   },
   "contributes": {
     "themes": [
