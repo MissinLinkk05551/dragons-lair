@@ -1,0 +1,32 @@
+{
+  "name": "dragon-slair",
+  "displayName": "Dragon'sLair",
+  "description": "Dragon's Lair is a dark and mystical theme inspired by the deep caverns of a dragon's  lair. The midnight black background sets the stage for focused coding, while the highlights evoke the magical glow of a dragon's breath. Ideal for those who seek a mythical and enchanting coding experience.",
+  "version": "0.0.1",
+  "publisher": "nrevia05hp",
+  "engines": {
+    "vscode": "^1.91.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+    "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "dragon"
+  ],
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissinLinkk05551/dragons-lair.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dragon's Lair",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dragon's Lair-color-theme.json"
+      }
+    ]
+  }
+}
